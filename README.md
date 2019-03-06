@@ -12,5 +12,5 @@
 ### Week 2
 * 228 Memorial Day (No class)
 * At home:
-  1. HW0: 寫上新頭殼爬蟲程式碼註解
+  1. [HW0: 寫上新頭殼爬蟲程式碼註解](https://github.com/kharryyanto/107-2-NTU-CS-X-Data-Science-Programming/blob/master/HW0.ipynb)
 ### Week 3
