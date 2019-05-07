@@ -1,6 +1,11 @@
 # 107-2_NTU_CS-X_Data_Science_Programming
 
 課名:107-2[資料科學程式設計]
+## Homeworks
+---
+1. [HW0](https://github.com/kharryyanto/107-2-NTU-CS-X-Data-Science-Programming/blob/master/HW0.ipynb)
+2. [HW1-3: 91APP EDA](https://github.com/kharryyanto/107-2-NTU-CS-X-Data-Science-Programming/blob/master/91APP%20HW.ipynb)
+3. [HW4-6: Twitter Analysis](https://github.com/kharryyanto/107-2-NTU-CS-X-Data-Science-Programming/blob/master/Twitter.ipynb)
 
 ## Progress
 ---
