@@ -36,9 +36,9 @@
 * Spring Break
 ### Week 8 (4/11)
 * In class:
-  0. HW 1-3 due (4/10)
-  1. HW 1-3 sharing
-  2. Introduction to Machine Learning and Deep Learning
+  1. HW 1-3 due (4/10)
+  2. HW 1-3 sharing
+  3. Introduction to Machine Learning and Deep Learning
 ### Week 9 (4/18)
 * In class:
   1. Word processing and machine learning: TF-IDF, PCA, K-means clustering, SVM
@@ -56,7 +56,7 @@
   3. Internship experience sharing：野村證券
 ### Week 12 (5/9)
 * In class:
-  0. HW 4-6 due (5/8)
+  1. HW 4-6 due (5/8)
 ### Week 13 (5/16)
 ### Week 14 (5/23)
 ### Week 15 (5/30)
