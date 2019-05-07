@@ -23,7 +23,7 @@
   1. Learn about exploratory data analysis (EDA)
   2. Group discussion on 91APP EDA
 * At home:
-  1. Start [HW1-3: 91APP EDA](https://github.com/kharryyanto/107-2-NTU-CS-X-Data-Science-Programming/blob/master/91APP HW.ipynb)
+  1. Start [HW1-3: 91APP EDA](https://github.com/kharryyanto/107-2-NTU-CS-X-Data-Science-Programming/blob/master/91APP%20HW.ipynb)
 ### Week 5 (3/21)
 * In class:
   1. Case Study: 台北市長候選人臉書經營方式的影響分析
